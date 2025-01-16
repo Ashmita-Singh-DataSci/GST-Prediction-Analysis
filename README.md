@@ -41,7 +41,7 @@ This project aims to develop a robust machine learning model to address various 
 - Ensure all dependencies in `requirements.txt` are installed.
 
 ## Plagiarism Declaration
-"I hereby declare that this project report is my own work and has been written by me in my own words. Any information derived from the published or unpublished work of others has been acknowledged in the text and a list of references is provided. I have not copied in part or in whole or otherwise plagiarized the work of other students and/or persons. The primary sources of assistance were Microsoft Copilot, a referenced research paper, and a PDF report, which provided guidance and insights without copying any proprietary content."
+I hereby declare that this project report is my own work and has been written by me in my own words. Any information derived from the published or unpublished work of others has been acknowledged in the text and a list of references is provided. I have not copied in part or in whole or otherwise plagiarized the work of other students and/or persons. The primary sources of assistance were Microsoft Copilot, a referenced research paper, and a PDF report, which provided guidance and insights without copying any proprietary content.
 
 ## Citations
 **References**
